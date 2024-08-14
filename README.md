@@ -1,55 +1,36 @@
-# Detailed README
-
-## Specializations
-
-### [Specialization Name]
-- **Where:** [Platform where you are taking this specialization]
-- **University/Institute:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
+# Deep Learning for Healthcare Specialization
+- **Where:** Cousera
+- **University/Institute:** University of Illinois at Urbana-Champaign
+- **Status:** In Progress
 
 #### Courses in this Specialization
-1. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
+1. Course 1: Health Data Science Foundation
+   - **Status:** In Progress
+   - **Link:** https://www.coursera.org/learn/health-data-science-foundation?specialization=deep-learning-healthcare
 
-2. Course Name
-   - **Status:** [Completed / In Progress / Not Started]
-   - **Link:** [URL to course page, if available]
-
-...
+2. Course 2: Deep Learning Methods for Healthcare
+   - **Status:**Not Started
+   - **Link:** https://www.coursera.org/learn/deep-learning-methods-healthcare?specialization=deep-learning-healthcare
+  
+3. Course 3: Advanced Deep Learning Methods for Healthcare
+   - **Status:**Not Started
+   - **Link:** https://www.coursera.org/learn/advanced-deep-learning-methods-healthcare?specialization=deep-learning-healthcare
 
 ## Courses
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+### Course 1: Health Data Science Foundation
 
-### [Course Name]
-- **Where:** [Platform where you are taking this course]
-- **University:** [Name of the University]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to course page, if available]
+   - Week 1: Introduction
+   - Week 2: Health Data
+   - Week 3: Machine Learning Basics
+   - Week 4: Deep Neural Networks(DNN)
 
-...
+### Course 2: Deep Learning Methods for Healthcare
 
-## Other Activities
+### Course 3: Advanced Deep Learning Methods for Healthcare
 
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
 
-### [Activity Name]
-- **Where:** [Platform or location of the activity]
-- **Status:** [Completed / In Progress / Not Started]
-- **Link:** [URL to activity page, if available]
-
-...
 
 ## Certificates
 
-- **[Certificate Name]**
-  - **Where:** [Platform where the certificate was earned]
-  - **Link:** [URL to certificate, if available]
+- [**Course 1: Health Data Science Foundation**]()
