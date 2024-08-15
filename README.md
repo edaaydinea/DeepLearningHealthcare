@@ -21,6 +21,8 @@
 ### Course 1: Health Data Science Foundation
 
    - Week 1: Introduction
+     - [Lecture Note](L1/W1/lecture_note.ipynb)
+     - [Lab 1](L1/W1/LAB1.ipynb)
    - Week 2: Health Data
    - Week 3: Machine Learning Basics
    - Week 4: Deep Neural Networks(DNN)
