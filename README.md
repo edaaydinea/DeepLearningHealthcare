@@ -32,6 +32,8 @@
   - [Lecture Note](L1/W3/lecture_note.ipynb)
   - [Lab 2](L1/W3/LAB2.ipynb)
 - Week 4: Deep Neural Networks(DNN)
+  - [Lecture Note](L1/W4/lecture_note.ipynb)
+  - [HW2](L1/W4/HW2_NN.ipynb)
 
 ### Course 2: Deep Learning Methods for Healthcare
 
