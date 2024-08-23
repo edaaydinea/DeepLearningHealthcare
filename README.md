@@ -41,4 +41,4 @@
 
 ## Certificates
 
-- [**Course 1: Health Data Science Foundation**]()
+- [**Course 1: Health Data Science Foundation**](https://coursera.org/share/d74b964ccfad825541d81e9e72eaeb6e)
