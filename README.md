@@ -58,6 +58,16 @@ Course 3: Advanced Deep Learning Methods for Healthcare
 
 [**Chapter 7 Exercise Solutions**](./BookNotes/Chapter7/exercise_solutions.ipynb)
 
+[**Chapter 8 Exercise Solutions**](./BookNotes/Chapter8/exercise_solutions.ipynb)
+
+[**Chapter 9 Exercise Solutions**](./BookNotes/Chapter9/exercise_solutions.ipynb)
+
+[**Chapter 10 Exercise Solutions**](./BookNotes/Chapter10/exercise_solutions.ipynb)
+
+[**Chapter 11 Exercise Solutions**](./BookNotes/Chapter11/exercise_solutions.ipynb)
+
+[**Chapter 12 Exercise Solutions**](./BookNotes/Chapter12/exercise_solutions.ipynb)
+
 ## Certificates
 
 * [**Course 1: Health Data Science Foundation**](https://coursera.org/share/d74b964ccfad825541d81e9e72eaeb6e)
